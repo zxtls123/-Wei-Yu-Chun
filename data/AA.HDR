@@ -1,0 +1,15 @@
+ENVI
+description = {
+  Create New File Result [Tue Feb 18 22:10:34 2003]}
+samples = 600
+lines   = 600
+bands   = 7
+header offset = 0
+file type = ENVI Standard
+data type = 1
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+x start = 2542
+y start = 1353
+pixel size = {1.00000000e+000, 1.00000000e+000, units=Meters}
